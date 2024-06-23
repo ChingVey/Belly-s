@@ -173,8 +173,8 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
       <a href="https://github.com/ChingVey"
         class=" bg-violet-300 rounded-[30px] text-center transition duration-200 delay-175 hover:scale-105 cursor-pointer">
         <div class="flex justify-between items-center p-3">
-          <img class="w-12" src="/LorChingVeylogo.svg">
-          <img class="w-12 animate-pulse" src="/Arrow.svg">
+          <img class="w-12" src="">
+          <img class="w-12 animate-pulse" src="">
         </div>
         <li class="list-none text-left pl-4 font-bold text-black">Github</li>
       </a>
@@ -182,8 +182,8 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
       <a href="tel:066849166"
         class=" bg-green-300 rounded-[30px] text-center transition duration-200 delay-175 hover:scale-105 cursor-pointer">
         <div class="flex justify-between items-center p-3">
-          <img class="w-12" src="/IncomingCallIcon.svg">
-          <img class="w-12 animate-pulse" src="/Arrow.svg">
+          <img class="w-12" src="">
+          <img class="w-12 animate-pulse" src="">
         </div>
         <li class="list-none text-left pl-4 font-bold text-black">Phone</li>
       </a>
@@ -194,8 +194,8 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
       <a href="https://www.linkedin.com/in/lor-chingvey-126letsdoit29/"
         class=" bg-sky-300 rounded-[30px] text-center transition duration-200 delay-175 hover:scale-105 cursor-pointer">
         <div class="flex justify-between items-center p-3">
-          <img class="w-12" src="/LinkedInlogo.svg">
-          <img class="w-12 animate-pulse" src="/Arrow.svg">
+          <img class="w-12" src="">
+          <img class="w-12 animate-pulse" src="">
         </div>
         <li class="list-none text-left pl-4 font-bold text-black">Linkedin</li>
       </a>
@@ -203,8 +203,8 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
       <a href="https://t.me/Lor_JingVey"
         class=" bg-rose-300 rounded-[30px] text-center transition duration-200 delay-175 hover:scale-105 cursor-pointer">
         <div class="flex justify-between items-center p-3">
-          <img class="w-12" src="/telegram-svgrepo-com.svg">
-          <img class="w-12 animate-pulse" src="/Arrow.svg">
+          <img class="w-12" src="">
+          <img class="w-12 animate-pulse" src="">
         </div>
         <li class="list-none text-left pl-4 font-bold text-black">Telegram</li>
       </a>
@@ -228,10 +228,10 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
         class="bg-violet-300 rounded-[15px] text-center col-span-4 transition duration-200 delay-175 hover:scale-105 cursor-pointer v-motion">
         <div class="flex justify-between items-center p-3">
           <div class="flex items-center">
-          <img class="w-12" src="/LorChingVeylogo.svg">
+          <img class="w-12" src="">
           <li class="list-none text-left pl-4 font-bold text-black">Github</li>
         </div>
-        <img class="w-12 animate-pulse" src="/Arrow.svg">
+        <img class="w-12 animate-pulse" src="">
         </div>
       </a>
 
@@ -239,10 +239,10 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
         class="bg-green-300 rounded-[15px] text-center col-span-4 transition duration-200 delay-175 hover:scale-105 cursor-pointer v-motion">
         <div class="flex justify-between items-center p-3">
           <div class="flex items-center">
-          <img class="w-12" src="/IncomingCallIcon.svg">
+          <img class="w-12" src="">
           <li class="list-none text-left pl-4 font-bold text-black">Phone</li>
         </div>
-        <img class="w-12 animate-pulse" src="/Arrow.svg">
+        <img class="w-12 animate-pulse" src="">
       </div>
       </a>
 
@@ -250,10 +250,10 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
         class="bg-sky-300 rounded-[15px] text-center col-span-4 transition duration-200 delay-175 hover:scale-105 cursor-pointer v-motion">
         <div class="flex justify-between items-cente p-2">
           <div class="flex items-center">
-            <img class="w-12" src="/LinkedInlogo.svg">
+            <img class="w-12" src="">
           <li class="list-none text-left pl-4 font-bold text-black">Linkedin</li>
           </div>
-          <img class="w-12 animate-pulse" src="/Arrow.svg">
+          <img class="w-12 animate-pulse" src="">
         </div>
       </a>
 
@@ -261,10 +261,10 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
         class="bg-rose-300 rounded-[15px] text-center col-span-4 transition duration-200 delay-175 hover:scale-105 cursor-pointer v-motion">
         <div class="flex justify-between items-center p-3">
           <div class="flex items-center">
-          <img class="w-12" src="/telegram-svgrepo-com.svg">
+          <img class="w-12" src="">
           <li class="list-none text-left pl-4 font-bold text-black">Telegram</li>
         </div>
-        <img class="w-12 animate-pulse" src="/Arrow.svg">
+        <img class="w-12 animate-pulse" src="">
         </div>
       </a>
     </div>
