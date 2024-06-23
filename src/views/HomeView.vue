@@ -41,7 +41,12 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
         class=" lg:bg-neutral-900 lg:text-white lg:rounded-[45px] lg:grid-cols-4 lg:grid-row-3 lg:grid lg:gap-2 lg:p-4 lg:pt-12 hidden">
         <div class="col-span-4 flex justify-around items-center">
           <div class="inlineblock">
-            <h1 class="text-6xl font-bold">Anh Ah Ra</h1>
+            <div class="flex p-4 items-center">
+              <img class="w-24" src="/spotify.png" alt="">
+              <img class="ml-4 w-24" src="/apple.png" alt="">
+              <img class="ml-4 w-32" src="/youtube.png" alt="">
+            </div>
+            <h1 class="text-6xl font-bold">Bellyz G</h1>
             <p class="font-bold text-lg pt-4">- Introduction</p>
             <p class="text-3xl font-semibold pt-4">Rapper, Song Writter and<span class="block">Music Producer, based in Phnom Penh.</span>
             </p>
@@ -110,42 +115,48 @@ onClickOutside(modal, () => (ModalOpen1.value = false))
   class="lg:w-[1500px] lg:h-[800px] lg:bg-neutral-900 lg:text-white lg:rounded-[45px] lg:p-4">
   <div class=" rounded-[30px}">
     <div class="inline-block justify-between items-center">
-      <h5 class="text-7xl text-left font-bold p-2">Mind Map</h5>
-      <h1 class="text-xl text-left font-san p-2">I make mind map for the first step of brain storming the project for stakeholder.</h1>
-    <h1 class="text-4xl text-left font-sam p-2 "></h1>
-    <img class="rounded-[30px] w-[1500px] h-[600px] p-2 items-center" src="" alt="">
+      <div class="flex justify-left items-center p-4">
+        <img class="w-20" src="/spotify.png" alt="">
+      <h5 class="text-7xl text-left font-bold pl-4">Spotify</h5>
+    </div>
+      <h1 class="text-xl text-left font-san p-4">I make mind map for the first step of brain storming the project for stakeholder.</h1>
+      <iframe class="w-[1465px] h-[600px] p-4" style="border-radius:45px" src="https://open.spotify.com/embed/artist/3nXYF6cApkYqlgBeK6QMwV?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   </div>
 
 </div>
 </main>
 
-<main class="container max-w-full min-h-screen bg-black flex justify-center items-center">
+<main id="3rd" class="container max-w-full min-h-screen bg-black flex justify-center items-center">
 
 <div
   class="lg:w-[1500px] lg:h-[800px] lg:bg-neutral-900 lg:text-white lg:rounded-[45px] lg:p-4">
   <div class=" rounded-[30px}">
     <div class="inline-block justify-between items-center">
-      <h5 class="text-7xl text-left font-bold p-2">User Story</h5>
-      <h1 class="text-xl text-left font-san p-2">I make mind map for the first step of brain storming the project for stakeholder.</h1>
-    <h1 class="text-4xl text-left font-sam p-2 "></h1>
-    <img class="rounded-[30px] w-[1500px] h-[600px] p-2 items-center" src="" alt="">
+      <div class="flex justify-left items-center p-4">
+        <img class="w-20" src="/apple.png" alt="">
+      <h5 class="text-7xl text-left font-bold pl-4">Apple Music</h5>
+    </div>
+      <h1 class="text-xl text-left font-san p-4">I make mind map for the first step of brain storming the project for stakeholder.</h1>
+      <iframe class="w-[1465px] h-[600px] p-4" allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/kh/album/sunset-freestyle-single/1753350363"></iframe>
     </div>
   </div>
 
 </div>
 </main>
 
-<main class="container max-w-full min-h-screen bg-black flex justify-center items-center">
+<main id="3rd" class="container max-w-full min-h-screen bg-black flex justify-center items-center">
 
 <div
   class="lg:w-[1500px] lg:h-[800px] lg:bg-neutral-900 lg:text-white lg:rounded-[45px] lg:p-4">
   <div class=" rounded-[30px}">
     <div class="inline-block justify-between items-center">
-      <h5 class="text-7xl text-left font-bold p-2">Business Flow</h5>
-      <h1 class="text-xl text-left font-san p-2">I make mind map for the first step of brain storming the project for stakeholder.</h1>
-    <h1 class="text-4xl text-left font-sam p-2 "></h1>
-    <img class="rounded-[30px] w-[1500px] h-[600px] p-2 items-center" src="" alt="">
+      <div class="flex justify-left items-center p-4">
+        <img class="w-20" src="/youtube.png" alt="">
+      <h5 class="text-7xl text-left font-bold pl-4">Youtube</h5>
+    </div>
+      <h1 class="text-xl text-left font-san p-4">I make mind map for the first step of brain storming the project for stakeholder.</h1>
+      <iframe width="958" height="539" src="https://www.youtube.com/embed/mCpIt6ZMxTw" title="Bellyz G - WIFEY (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </div>
 
